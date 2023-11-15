@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jatinkataria123
-- 👀 I’m interested in coding
+- 👀 I’m interested in development
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me , gmail- katariajatin99@gmail.com
